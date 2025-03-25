@@ -1,0 +1,4 @@
+/[Ll]ibrary/
+Lab 5.sln
+Assembly-CSharp.csproj
+.vsconfig
