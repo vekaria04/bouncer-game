@@ -1,19 +1,30 @@
-# Multi-Level Game
+# 🕹️ Bouncer – An Interactive 3D Role Playing Game
 
-**Description:**  
-Multi-Level Game is a 3D role-playing game developed in Unity using C#. It features dynamic gameplay, immersive levels, adaptive enemy behavior, and realistic physics that create a polished and engaging experience.
+**Bouncer** is a multi-level 3D role-playing game developed in Unity using C#. It combines dynamic gameplay mechanics, intelligent enemy AI, and realistic physics to deliver an immersive and engaging player experience.
 
-## Game Features
+---
 
-- **Dynamic Gameplay:**  
-  Enjoy a fluid and responsive system where player actions directly influence the environment and combat. The mechanics adapt in real-time to decisions made, ensuring each playthrough offers fresh challenges and surprises.
+## 🎮 Game Features
 
-- **Immersive Levels:**  
-  Explore meticulously crafted environments that bring the game world to life. Each level is designed with rich details and diverse challenges—from intricate puzzles to hidden pathways—enhancing the narrative and deepening player engagement.
+### 🔁 Dynamic Gameplay
+Player actions directly impact combat, movement, and environment. The game adapts in real-time to decision-making, offering a unique experience in every playthrough.
 
-- **Adaptive Enemies:**  
-  Encounter intelligent foes that adjust their tactics based on your actions. These enemies present a variable challenge by altering their behavior in real-time, keeping battles exciting and unpredictable.
+### 🌍 Immersive Levels
+Each level is uniquely designed with detailed environments, hidden paths, and narrative-driven challenges, including logic puzzles and environmental obstacles.
 
-- **Realistic Physics:**  
-  Experience believable interactions with a physics system that supports smooth collisions, realistic movement, and environmental interactions. This attention to detail elevates the overall immersion, making every action feel impactful.
+### 🤖 Adaptive Enemies
+AI-controlled enemies dynamically adjust their behavior based on player performance, making battles unpredictable and increasingly challenging.
 
+### 🧠 Realistic Physics
+Built-in Unity physics powers accurate collisions, natural player movement, and interactive objects that react realistically to in-game forces.
+
+---
+
+## 🛠️ Technologies Used
+
+| Component   | Technology         |
+|-------------|--------------------|
+| Engine      | Unity (C#)         |
+| Language    | C# (MonoBehaviour) |
+| Platform    | PC (Unity Build)   |
+| Tools       | Unity Editor, Visual Studio |
